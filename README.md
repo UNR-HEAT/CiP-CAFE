@@ -7,15 +7,15 @@ We are excited to introduce **Version 2.0** of the *Chemicals in Products - Comp
 
 
 ## Installation and Usage Instructions
-- Download both the spreadsheet (`CiP-CAFE.xlsm`) and the "Gridding" folder from the latest **Release**.
+- Download both the spreadsheet (`CiP-CAFE_2.0.xlsm`) and the "Gridding" folder from the latest **Release**.
 - Place them in the same directory on your local machine to ensure proper functionality.
 - Trust the model file:
-   - After downloading `CiP-CAFE.xlsm`, right-click the file in your file explorer.
+   - After downloading `CiP-CAFE_2.0.xlsm`, right-click the file in your file explorer.
    - Select **Properties** from the context menu.
    - In the **General** tab, check **Unblock** and click **OK** to mark the file as trusted.
 - Use Microsoft Excel 2016 or later versions.
 - Enable Macros in Microsoft Excel:
-   - Open `CiP-CAFE.xlsm` in Microsoft Excel.
+   - Open `CiP-CAFE_2.0.xlsm` in Microsoft Excel.
    - If prompted with a security warning about macros (e.g., "Macros have been disabled"), click **Enable Content** or **Enable Macros** in the yellow Message Bar at the top of the Excel window.
    - If no prompt appears, go to **File** > **Info** > **Enable Content** > **Enable All Content** to allow macros to run.
 - Contact the model developer to obtain a new license key if you see a warning that the license has expired. Once received, place the license file in the same folder as the spreadsheet to activate the model.
